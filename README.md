@@ -1,4 +1,4 @@
-lightspeedc.github.com
+LightSpeedC.github.com
 ======================
 
 LightSpeedC pages
